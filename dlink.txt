@@ -1,0 +1,2 @@
+
+D-Link routers come with an Ethernet cable using which it can be connected to a modem. A modem enables the devices connected to the router to access the Internet. Some D-Link routers have a built-in DSL modem. Your computer can either make a wired connection or a wireless connection with the router
